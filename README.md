@@ -5,6 +5,16 @@ The **personal milestones table** outlines key milestones for practical programm
 **Link:** They should insert the actual URL where they achieved each milestone into the `Link` column. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. :exclamation: Replace the placeholders (including `'`) with the actual URLs :exclamation: - only the marked sections will change.
 
 
+
+
+| Week | Milestone                                   | Link                                                         |
+|------|---------------------------------------------|--------------------------------------------------------------|
+| 1    | Github Account Created                      | https://github.com/igorgonteri |
+| 1    | Github Profile Page Updated                 | https://github.com/igorgonteri/igorgonteri |
+| 1    | Commit and Push Change from Command Line    | https://github.com/igorgonteri/ppchem/commit/549e03a |
+| 1    | Create a New Branch                           | https://github.com/igorgonteri/ppchem/tree/new-branch-name |
+| 1    | Create a conda environment                  | https://github.com/igorgonteri/ppchem/blob/main/env.yml |
+
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/igorgonteri                                              | 
@@ -12,6 +22,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Commit and Push Change from Command Line    | https://github.com/igorgonteri/ppchem/commit/549e03a               |
 | 1    | Create a New Branch                         | https://github.com/igorgonteri/ppchem/tree/new-branch-name            |
 | 1    | Create a conda environment                  | https://github.com/igorgonteri/ppchem/blob/main/env.yml      |
+
 | 1    | Fork a Repo                                 | https://github.com/igorgonteri/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
