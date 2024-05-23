@@ -16,7 +16,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a conda environment                  | https://github.com/igorgonteri/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/igorgonteri/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/igorgonteri/ppchem/pull/2|
-| 2    | (Optional) Review a Pull Request            | |
+| 2    | (Optional) Review a Pull Request            | https://github.com/igorgonteri/ppchem/pull/2#pullrequestreview-2073631504|
 | 4    | Update env.yml via pull request             | https://github.com/igorgonteri/practical-programming-in-chemistry-milestones/pull/1 | 
 
 **More milestones will be added throughout the course.**
